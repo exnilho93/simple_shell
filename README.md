@@ -1,5 +1,7 @@
 # simple_shell
 I am colloborating with Philia Hammond in this project
+
+
 Requirements
 General
 Allowed editors: vi, vim, emacs
